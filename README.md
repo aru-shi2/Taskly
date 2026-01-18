@@ -1,18 +1,18 @@
-📝 Taskly – React + Tailwind ToDo App
+## 📝**Taskly**
 
 Taskly is a minimal and efficient ToDo List app built with React and Tailwind CSS, designed to help you stay organized.
 
 🔗 Live Demo: https://tasklyy-app.netlify.app
 
-🚀 Features
+### 🚀 **Features**
 
-  ✍️ Add Task
+  ✍️ **Add Task**
 
   - Input field with validation.
 
   - "Add" button is disabled until the input has 3+ characters.
 
-  ✅ Task Actions
+  ✅ **Task Actions**
 
   Each task includes:
 
@@ -24,7 +24,7 @@ Taskly is a minimal and efficient ToDo List app built with React and Tailwind CS
 
   - Completed tasks have a strikethrough style.
 
-  👁️ Show Finished Toggle
+  👁️ **Show Finished Toggle**
 
   Show Finished checkbox:
 
@@ -32,14 +32,14 @@ Taskly is a minimal and efficient ToDo List app built with React and Tailwind CS
 
  - When unchecked: displays only incomplete tasks.
 
-  🛠️ Built With
+  ### 🛠️ **Built With**
 
 -Reactjs
 
 -TailwindCSS
 
 
-📦 Getting Started
+### 📦 **Getting Started**
 
 ```git clone https://github.com/aru-shi2/taskly.git
 cd taskly
